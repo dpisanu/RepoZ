@@ -2,5 +2,5 @@ pool:
   vmImage: 'xcode9-macos10.13'
 
 steps:
-  - name: "Running Cake script ..."
-    command: "./build.sh --system=mac"
+  - name: 'Running Cake script ...'
+    command: './build.sh --system=mac'
